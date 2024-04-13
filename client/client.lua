@@ -227,7 +227,7 @@ RegisterNetEvent("steffone:menuoxlib", function()
                 end
             },
             {
-                title = Config.Language.MenuTitles.RemoveArmour,
+                title = Config.ArmourRemove,
                 icon = "x",
                 onSelect = function()
                     SetPedArmour(ped, 0)
