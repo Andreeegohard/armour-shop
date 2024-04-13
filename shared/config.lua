@@ -41,9 +41,10 @@ Config.BuyBasicArmour = 'Buy Basic Armour'
 Config.BuySimpleArmour = 'Buy Simple Armour'
 Config.BuyMediumArmour = 'Buy Medium Armour'
 Config.BuyHighArmour = 'Buy High Armour'
+Config.ArmourRemove = 'Remove your armour'
 
 -- Text for removing armour
-Config.RemoveArmour = 'Remove Armour'
+Config.RemoveArmour = 'Armor Removed!'
 
 -- Text for the notification when buying armour
 Config.NotifyBuy = "You took armour, and you paid:"
